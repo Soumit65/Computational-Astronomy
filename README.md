@@ -1,2 +1,2 @@
 # Computational-Astronomy
-Repository for my course
+This repository contains all the code files and assignments I have generated for the course!
